@@ -17,7 +17,10 @@
 
 ## 09.05.2025 Erstes Arbeitspaket
 
-- [ ] ...
-- [ ] Viertes AP
+- [ ] An Flappy Bird weiterarbeiten
+- [ ] (Voraussichtlich) Flappy Bird abschliessen
+- [ ] Mit neuem Spiel beginnen (Tetris)
+- [ ] An Tetris arbeiten
+      
 
 ✍️ Heute habe ich... (50-100 Wörter)
