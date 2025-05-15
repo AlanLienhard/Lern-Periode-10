@@ -17,10 +17,17 @@
 
 ## 09.05.2025 Erstes Arbeitspaket
 
-- [ ] An Flappy Bird weiterarbeiten
+- [x] An Flappy Bird weiterarbeiten
 - [ ] (Voraussichtlich) Flappy Bird abschliessen
 - [ ] Mit neuem Spiel beginnen (Tetris)
 - [ ] An Tetris arbeiten
       
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich nur an einem der vier geplanten Arbeitspakete gearbeitet, weil ich habe die Möglichkeit, den LB Teil 2 vom Modul M259 bei Herr Colic zu verbessern, ausgenutzt. Mit dieser Verbesserung, kann ich hoffentlich meine LB-Note von einer 5,5 auf eine 6,0 steigern (nachträglich habe ich das dann auch geschafft). Nächstes Mal, werde ich vorraussichtlich am Modul M165 arbeiten, da ich an dem Mittwoch nicht arbeiten konnte, weil ich den Orientierungstag hatte. Ich werde dennoch versuchen, das FlappyBird-Spiel fertig zu stellen. (82 Wörter)
+
+## 16.05.025
+
+- [ ] An Modul M165 weiterarbeiten.
+- [ ] An Modul M165 weiterarbeiten.
+- [ ] An Modul M165 weiterarbeiten.
+- [ ] FlappyBird abschliessen.
