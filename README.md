@@ -27,7 +27,16 @@
 
 ## 16.05.025
 
-- [ ] An Modul M165 weiterarbeiten.
-- [ ] An Modul M165 weiterarbeiten.
-- [ ] An Modul M165 weiterarbeiten.
-- [ ] FlappyBird abschliessen.
+- [x] An Modul M165 weiterarbeiten.
+- [x] An Modul M165 weiterarbeiten.
+- [x] An Modul M165 weiterarbeiten.
+- [x] FlappyBird abschliessen.
+
+Ich habe das vierte AP noch überzogen (da es auch nicht ein ganzes AP an Arbeit bei FlappyBird hatte) und habe somit ein bisschen länger als geplant am Modul M165 gearbeitet. Ich konnte zwei Aufträge erledigen, und ich habe einen Dritten angefangen, somit bin ich nun gleich weit, wie wenn ich am Mittwoch anwäsend gewesen wäre. Als Nächstes, möchte ich mit Tetris in der Konsole anfangen. (66 Wörter)
+
+## 23.05.2025
+
+- [ ] Mit Tetris anfangen
+- [ ] An Tetris arbeiten
+- [ ] An Tetris arbeiten
+- [ ] An Tetris arbeiten
