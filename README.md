@@ -50,4 +50,4 @@ Ich habe mit dem Tetrisspiel angefangen, bin aber noch nicht ganz fertig geworde
 - [ ] Sounds einfügen
 - [ ] An Tetris weiterarbeiten, evtl. auch abschliessen
 
-- [ ] 
+
