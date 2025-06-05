@@ -36,7 +36,18 @@ Ich habe das vierte AP noch überzogen (da es auch nicht ein ganzes AP an Arbeit
 
 ## 23.05.2025
 
-- [ ] Mit Tetris anfangen
-- [ ] An Tetris arbeiten
-- [ ] An Tetris arbeiten
-- [ ] An Tetris arbeiten
+- [x] Mit Tetris anfangen
+- [x] An Tetris arbeiten
+- [x] An Tetris arbeiten
+- [x] An Tetris arbeiten
+
+Ich habe mit dem Tetrisspiel angefangen, bin aber noch nicht ganz fertig geworden. Das einzige Videotutorial, das ich gefunden habe, ist für eine GUI-Version des Spiels, und ich möchte das Spiel in der Konsole/CLI machen. Deswegen musste ich noch ein paar Sachen abändern und es reichte mir zeitlich nicht, es zu beenden. (52 Wörter)
+
+## 06.06.2025
+
+- [ ] Am Modul M306 (Gruppenarbeit) arbeiten, dort machen wir ein PacMan Webspiel und ich mache dort im ILA Sounds.
+- [ ] Sounds einfügen
+- [ ] Sounds einfügen
+- [ ] An Tetris weiterarbeiten, evtl. auch abschliessen
+
+- [ ] 
