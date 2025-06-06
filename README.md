@@ -45,9 +45,10 @@ Ich habe mit dem Tetrisspiel angefangen, bin aber noch nicht ganz fertig geworde
 
 ## 06.06.2025
 
-- [ ] Am Modul M306 (Gruppenarbeit) arbeiten, dort machen wir ein PacMan Webspiel und ich mache dort im ILA Sounds.
-- [ ] Sounds einfügen
-- [ ] Sounds einfügen
+- [x] Am Modul M306 (Gruppenarbeit) arbeiten, dort machen wir ein PacMan Webspiel und ich mache dort im ILA Sounds.
+- [x] Sounds einfügen
+- [x] Sounds einfügen
 - [ ] An Tetris weiterarbeiten, evtl. auch abschliessen
 
+Ich habe heute Morgen nur an der LB gearbeitet, weil es noch andere Fehler/Optimierungsmöglichkeiten gab. Ich plante heute, nur die Soundeffekte einzufügen, was mittels [Howler](https://howlerjs.com/) problemlos gehen sollte, aber das Spiel fror dann nach dem ersten Frame ein. Dann musste ich den ganzen (spielrelevanten) Code nach möglichen Fehlern überprüfen, wurde aber noch nicht fündig. Deshalb hatte ich auch nicht mehr die Zeit, um an Tetris zu arbeiten. 
 
